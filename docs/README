@@ -1,0 +1,5 @@
+Инструкция по установке:
+1. cd third-party
+2. ant
+3. cd ..
+4. mvn clean install
